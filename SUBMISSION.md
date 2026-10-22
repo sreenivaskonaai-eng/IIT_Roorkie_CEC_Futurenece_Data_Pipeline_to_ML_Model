@@ -5,7 +5,7 @@
 **Client:** NammaMart Quick Commerce Pvt Ltd, Bengaluru  
 **Module:** FDAIE Module 2 — Data Engineering Foundations  
 **Submission Date:** 22 October 2026  
-**GitHub Repository:** `https://github.com/<your-username>/IIT_Roorkie_CEC_Futurenece_Data_Pipeline_to_ML_Model` (or your personal fork)  
+**GitHub Repository (Fork):** [https://github.com/sreenivaskonaai-eng/IIT_Roorkie_CEC_Futurenece_Data_Pipeline_to_ML_Model](https://github.com/sreenivaskonaai-eng/IIT_Roorkie_CEC_Futurenece_Data_Pipeline_to_ML_Model)  
 **Original Class Repo:** [UmashankarKH/IIT_Roorkie_CEC_Futurenece_Data_Pipeline_to_ML_Model](https://github.com/UmashankarKH/IIT_Roorkie_CEC_Futurenece_Data_Pipeline_to_ML_Model/tree/main/assignment)  
 
 ---
